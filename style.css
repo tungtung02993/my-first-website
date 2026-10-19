@@ -1,0 +1,61 @@
+/* Step 3: Style the body tag to modify font-family and font-size */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f9;
+}
+
+/* Step 4: Style the header tag to modify background-color */
+header {
+    background-color: #003366;
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Step 5: Style the nav tag to modify background-color */
+nav {
+    background-color: #f26f21;
+    padding: 10px;
+}
+
+/* Step 6: Style the main tag to modify background-color and font-size */
+main {
+    background-color: #ffffff;
+    font-size: 1.1rem;
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 25px;
+    border-radius: 8px;
+}
+
+/* Step 7: Style the footer tag to modify background-color */
+footer {
+    background-color: #003366;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+/* Step 8: Style the li tag to modify display and width properties */
+li {
+    display: inline-block;
+    width: 30%;
+    margin-bottom: 8px;
+}
+
+/* Step 9: Style the h1 tag to modify text-align, font-family, and color */
+h1 {
+    text-align: center;
+    font-family: 'Georgia', serif;
+    color: #003366;
+}
+
+/* Step 10: Style the p tag to modify line-height */
+p {
+    line-height: 1.6;
+    color: #333333;
+}
